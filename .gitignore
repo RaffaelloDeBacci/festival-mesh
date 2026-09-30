@@ -1,0 +1,9 @@
+target/
+out/
+.gradle/
+.kotlin/
+build/
+local.properties
+.build/
+Package.resolved
+DerivedData/
